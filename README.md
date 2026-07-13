@@ -12,3 +12,7 @@ This project demonstrates an end-to-end Data Engineering pipeline. It extracts h
 * **ETL Pipeline:** Consolidated multi-channel data, handled missing data metrics, and standardized timestamps.
 * **Database Optimization:** Implemented table partitioning by year, indexing on key dimensions, and created Materialized Views.
 * **Performance Evaluation:** Utilized `EXPLAIN ANALYZE` to prove that Materialized Views achieved a **100x speed increase** for OLAP reporting queries compared to raw sequential scans.
+* 
+## MEMBERS 
+-BIKET E. NKOT
+- MARK B. BIUNGA
