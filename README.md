@@ -14,5 +14,5 @@ This project demonstrates an end-to-end Data Engineering pipeline. It extracts h
 * **Performance Evaluation:** Utilized `EXPLAIN ANALYZE` to prove that Materialized Views achieved a **100x speed increase** for OLAP reporting queries compared to raw sequential scans.
 * 
 ## MEMBERS 
--BIKET E. NKOT
+- BIKET E. NKOT
 - MARK B. BIUNGA
