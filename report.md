@@ -14,6 +14,8 @@
 
 **Enzo Biket**
 
+**Ivana Momanyi**
+
 # Table of Contents {#table-of-contents .TOC-Heading}
 
 [DSA 2040: DATA WAREHOUSING AND MINING
